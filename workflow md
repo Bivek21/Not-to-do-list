@@ -1,0 +1,17 @@
+# Workflow
+
+1. setup the project and integreate cdn
+
+2. setup with your new git rep, and push it
+3. create a form
+4. create a table
+
+5. ##Functionalities
+6. get from datat in jas state
+7. store the form data in the global aeeay[]
+8. display the data in the table.
+9. create unique id
+10. delete
+11. switch
+12. calculate total saved hours.
+13. calculate total allocated hours.
